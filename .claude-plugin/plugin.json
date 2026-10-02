@@ -1,0 +1,17 @@
+{
+  "name": "focus-on-today",
+  "displayName": "Focus On Today",
+  "version": "1.0.0",
+  "description": "Your Focus On Today to-do list: what's due today, overdue or this week, and adding, editing and completing tasks.",
+  "author": {
+    "name": "Stewart Whaley",
+    "url": "https://focusonto.day"
+  },
+  "homepage": "https://focusonto.day",
+  "repository": "https://github.com/stewartwhaley/focus-on-today-plugin",
+  "license": "MIT",
+  "keywords": ["tasks", "to-do", "productivity", "macos"],
+  "icon": "./icon.png",
+  "supportUrl": "https://focusonto.day/support/",
+  "privacyPolicyUrl": "https://focusonto.day/privacy/"
+}
